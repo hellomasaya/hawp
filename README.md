@@ -3,6 +3,8 @@
 This repository provides HAWP(a first ever diverse dataset for Hindi) for evaluating and developing MWP Solvers for Hindi. It contains 2336 Hindi Math Word Problems (MWPs), and is published in the paper "HAWP: a Dataset for Hindi Arithmetic Word Problem Solving".
 
 
+The dataset can be found in `hawp/dataset/`
+
 ## About the dataset
 | Name          | HAWP                                            |
 |---------------|-------------------------------------------------|
